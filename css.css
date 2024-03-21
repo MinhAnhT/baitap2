@@ -1,0 +1,55 @@
+table {
+    background-color: aliceblue;
+}
+.header_ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 6px;
+}
+.header-li, .header-li-list {
+    display: inline-block;
+    font-size: 12px;
+    color: white;
+    text-decoration: none;
+}
+.header-li {
+    margin: 0 6px;
+}
+.header__navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.grid {
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.header {
+    background-color: rgb(53, 96, 121);
+    height: 40px;
+}
+.header-li-strong {
+    font-weight: 500;
+}
+.header-li:hover, .header-li-list:hover {
+    color: rgb(206, 197, 197);
+    cursor: pointer;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+.div2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+body {
+    background-color: aliceblue;
+}
+.name {
+    color: rgb(129, 88, 10);
+}
